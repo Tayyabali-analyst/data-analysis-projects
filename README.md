@@ -4,7 +4,7 @@ A collection of small data projects showcasing SQL, Power BI, and Excel skills b
 
 ## Projects
 
-- [Real Estate Data Analysis](./real-estate-analysis) SQL queries and Power BI dashboard analyzing property listing data.
+- [Retail Sales Analysis](./retail-sales-analysis) — SQL queries and Power BI dashboard analyzing retail sales data.
 
 ## Tools used
 SQL · Power BI · Python . Excel · Google Sheets
