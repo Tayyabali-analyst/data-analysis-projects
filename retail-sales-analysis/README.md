@@ -1,7 +1,7 @@
 # Retail Sales Analysis
 
 SQL analysis of a retail/e-commerce sales dataset (1,000 transactions) — data cleaning, querying, and business insights.
-
+![Dashboard](./dashboard.png)
 ## Tools used
 SQL Server · Excel
 
